@@ -578,9 +578,9 @@
 		},
 		{
 			"date": "2020-04-27",
-			"confirmed": 2534,
-			"recovered": 577,
-			"deaths": 136
+			"confirmed": 25,
+			"recovered": 5,
+			"deaths": 1
 		}
 	]
 }
