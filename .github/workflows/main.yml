@@ -6,7 +6,7 @@ on:
   
   # Time-based workflow trigger (at 00:00, 08:00, 16:00)
   schedule:
-    - cron: '21 20,4,12 * * *'  
+    - cron: '31 20,4,12 * * *'  
     
 # The job executed by the workflow
 jobs:
